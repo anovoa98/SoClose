@@ -1,4 +1,4 @@
-#Wed Mar 18 18:52:55 COT 2020
+#Wed Mar 18 19:44:56 COT 2020
 base.0=C\:\\Users\\Administrador\\Documents\\GitHub\\SoClose\\so_close_n\\SoClose\\So_Close\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

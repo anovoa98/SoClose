@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'E-Commerce ',
-      theme:  AppTheme.lightTheme.copyWith(
+      title: 'SOCLOSE ',
+      theme: AppTheme.lightTheme.copyWith(
         textTheme: GoogleFonts.muliTextTheme(
           Theme.of(context).textTheme,
           

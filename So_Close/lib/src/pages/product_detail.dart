@@ -83,7 +83,7 @@ class _ProductDetailPageState extends State<ProductDetailPage>
             isOutLine ? Colors.transparent : Theme.of(context).backgroundColor,
         boxShadow: <BoxShadow>[
           BoxShadow(
-              color: Color(0xfff8f8f8),
+              color: Color(0xff00BFA5),
               blurRadius: 5,
               spreadRadius: 10,
               offset: Offset(5, 5)),
